@@ -1,0 +1,41 @@
+Aim:
+To demonstrate Dictionary & related functions in python
+
+Algorithm:
+Step 1: Start the program.
+
+Step 2: Read the number n representing how many contacts will be stored.
+
+Step 3: Create an empty dictionary to store name and phone number.
+
+Step 4: Use a loop to input name and phone number and store them in the dictionary.
+
+Step 5: Display a menu with phone book operations:
+
+Print phone book
+
+Print names
+
+Print phone numbers
+
+Delete entry
+
+Exit
+
+Step 6: Read the user’s choice.
+
+Step 7: Perform the selected operation:
+
+Print all entries
+
+Print all names
+
+Print all phone numbers
+
+Delete an entry using the name
+
+Step 8: If the choice is Exit, terminate the program.
+
+Step 9: If the input is invalid, display “Invalid input”.
+
+Step 10: Stop the program.
