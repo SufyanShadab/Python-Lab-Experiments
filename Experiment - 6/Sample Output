@@ -1,0 +1,51 @@
+enter n:2
+enter name:john
+enter phone number:483739393
+enter name:sim
+enter phone number:323243343
+Phone Book Operations:
+1.Print book
+2.Print names
+3.Print phone numbers
+4.Delete entry
+5.Exit
+1
+dict_items([('john', '483739393'), ('sim', '323243343')])
+Phone Book Operations:
+1.Print book
+2.Print names
+3.Print phone numbers
+4.Delete entry
+5.Exit
+2
+dict_keys(['john', 'sim'])
+Phone Book Operations:
+1.Print book
+2.Print names
+3.Print phone numbers
+4.Delete entry
+5.Exit
+3
+dict_values(['483739393', '323243343'])
+Phone Book Operations:
+1.Print book
+2.Print names
+3.Print phone numbers
+4.Delete entry
+5.Exit
+4
+enter name:john
+Phone Book Operations:
+1.Print book
+2.Print names
+3.Print phone numbers
+5.Exit
+1
+dict_items([('sim', '323243343')])
+Phone Book Operations:
+1.Print book
+2.Print names
+3.Print phone numbers
+4.Delete entry
+5.Exit
+5
