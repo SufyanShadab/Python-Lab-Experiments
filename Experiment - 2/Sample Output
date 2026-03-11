@@ -1,1 +1,35 @@
-a
+Enter Number of players: 2
+Player 1
+Enter runs scored: 55
+Enter the no of balls faced: 40
+Enter the no of fours scored: 6
+Enter the nos of sixes scored: 2
+Enter the no of wickets taken: 3
+Enter runs conceded: 24
+Enter the no of overs bowled: 4
+Enter the no of catches taken: 2
+137.5
+6.0
+Strike Rate: 137.5
+Economy Rate: 6.0
+Batting Performance: Excellent Batter
+Bowling Performance: Excellent Bowler
+Feilding Performance: Outstanding Fielder
+Over All Rounder performance Star All-Rounder
+Player 2
+Enter runs scored: 148
+Enter the no of balls faced: 50
+Enter the no of fours scored: 6
+Enter the nos of sixes scored: 16
+Enter the no of wickets taken: 4
+Enter runs conceded: 29
+Enter the no of overs bowled: 2
+Enter the no of catches taken: 3
+296.0
+14.5
+Strike Rate: 296.0
+Economy Rate: 14.5
+Batting Performance: Excellent Batter
+Bowling Performance: Average Bowler
+Feilding Performance: Outstanding Fielder
+Over All Rounder performance Needs Improvement
