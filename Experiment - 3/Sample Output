@@ -1,0 +1,21 @@
+Enter first string: Hello
+Enter second string: Brawl
+HELLO
+hello
+Hello
+hELLO
+Hello
+BRAWL
+brawl
+Brawl
+bRAWL
+Hello
+Brawl
+['Hello']
+['Brawl']
+-1
+-1
+Hello
+Brbwl
+5
+5
