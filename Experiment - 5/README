@@ -1,0 +1,23 @@
+Aim:
+To demonstrate tuple & related functions in python.
+
+Algorithm;
+Step 1: Start the program.
+
+Step 2: Define a function operations(x, y) that returns the subtraction and division of two numbers.
+
+Step 3: Use a while loop to repeatedly display a menu with options:
+
+Perform Operations
+
+Exit
+
+Step 4: Read the user’s choice.
+
+Step 5: If the choice is 1, accept two numbers x and y, call the function, and display the subtraction and division results.
+
+Step 6: If the choice is 2, terminate the program.
+
+Step 7: If the choice is invalid, display “Invalid input”.
+
+Step 8: Stop the program.
