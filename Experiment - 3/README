@@ -4,32 +4,18 @@ To implement various string operations.
 Algorithm:
 Step 1: Start the program.
 
-Step 2: Read the first string a from the user.
+Step 2: Read two strings a and b from the user.
 
-Step 3: Read the second string b from the user.
+Step 3: Perform string operations (upper, lower, title, swapcase, capitalize) on both strings and display the results.
 
-Step 4: Convert the first string a to uppercase and display the result.
+Step 4: Display the first five characters of both strings using slicing.
 
-Step 5: Convert the first string a to lowercase and display the result.
+Step 5: Split both strings into words using split() and display them.
 
-Step 6: Convert the first string a to title case and display the result.
+Step 6: Find the position of character 'h' in both strings using find().
 
-Step 7: Swap the case of characters in the first string a and display the result.
+Step 7: Replace 'a' with 'b' in both strings using replace().
 
-Step 8: Capitalize the first letter of the first string a and display the result.
+Step 8: Display the length of both strings using len().
 
-Step 9: Perform the same string operations (upper, lower, title, swapcase, capitalize) on the second string b and display the results.
-
-Step 10: Display the first five characters of the first string a using slicing.
-
-Step 11: Display the first five characters of the second string b using slicing.
-
-Step 12: Split both strings a and b into lists of words and display them.
-
-Step 13: Find the position of the character 'h' in both strings using the find() function and display the result.
-
-Step 14: Replace the character 'a' with 'b' in both strings and display the modified strings.
-
-Step 15: Calculate and display the length of both strings.
-
-Step 16: Stop the program.
+Step 9: Stop the program.
