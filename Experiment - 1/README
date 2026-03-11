@@ -1,3 +1,27 @@
 Aim :
+To Demonstrate Various Data Types and Operators in Python.
 
 Algorithm:
+Step 1: Start the program.
+
+Step 2: Accept two integer values a and b from the user.
+
+Step 3: Display the heading “Equation Assignment Operations” on the screen.
+
+Step 4: Evaluate different algebraic expressions using arithmetic operators such as addition, subtraction, multiplication, and exponentiation.
+
+Step 5: Compare the left-hand side (LHS) and right-hand side (RHS) of each algebraic identity and print whether the result is True or False.
+
+Step 6: Display the heading “Bitwise Operations”.
+
+Step 7: Perform comparisons of expressions using bitwise operators such as OR (|), AND (&), and XOR (^).
+
+Step 8: Print the Boolean result (True or False) for each bitwise identity after comparing both sides.
+
+Step 9: Display the heading “Addition Operations” and verify identities related to addition using bitwise expressions.
+
+Step 10: Display the heading “Subtraction Operations” and verify identities related to subtraction using bitwise expressions.
+
+Step 11: Display the result of each comparison to check whether the identities hold true.
+
+Step 12: Stop the program.
