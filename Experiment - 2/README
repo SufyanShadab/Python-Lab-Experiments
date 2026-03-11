@@ -1,3 +1,79 @@
 Aim:
+To implement control flow statements and looping statements in python.
 
 Algorithm:
+Step 1: Start the program.
+
+Step 2: Read the number of players pl from the user.
+
+Step 3: Use a for loop to repeat the process for each player from 1 to pl.
+
+Step 4: Display the player number.
+
+Step 5: Accept the following inputs for each player:
+
+Runs scored
+
+Number of balls faced
+
+Number of fours scored
+
+Number of sixes scored
+
+Number of wickets taken
+
+Runs conceded
+
+Number of overs bowled
+
+Number of catches taken
+
+Step 6: Calculate the Strike Rate (sr) using the formula:
+sr = (Runs / balls) × 100
+
+Step 7: Calculate the Economy Rate (er) using the formula:
+er = runs conceded / overs
+
+Step 8: Determine the Batting Performance:
+
+If runs ≥ 50 and strike rate ≥ 120 → "Excellent Batter"
+
+Else if runs ≥ 30 and strike rate ≥ 100 → "Good Batter"
+
+Else if runs ≥ 20 → "Average Batter"
+
+Otherwise → "Poor Batter"
+
+Step 9: Determine the Bowling Performance:
+
+If wickets ≥ 3 and economy rate ≤ 6 → "Excellent Bowler"
+
+Else if wickets ≥ 2 and economy rate ≤ 8 → "Good Bowler"
+
+Else if wickets ≥ 1 → "Average Bowler"
+
+Otherwise → "Poor Bowler"
+
+Step 10: Determine the Fielding Performance:
+
+If catches ≥ 2 → "Outstanding Fielder"
+
+Else if catches = 1 → "Active Fielder"
+
+Otherwise → "Needs Improvement"
+
+Step 11: Determine the Overall All-Rounder Performance:
+
+If batting = "Excellent Batter" and bowling = "Excellent Bowler" → "Star All-Rounder"
+
+Else if batting = "Good Batter" and bowling = "Good Bowler" → "Strong All-Rounder"
+
+Else if batting = "Good Batter" or bowling = "Good Bowler" → "Supporting All-Rounder"
+
+Otherwise → "Needs Improvement"
+
+Step 12: Display the Strike Rate, Economy Rate, Batting Performance, Bowling Performance, Fielding Performance, and Overall All-Rounder Performance.
+
+Step 13: Repeat the process for all players.
+
+Step 14: Stop the program.
