@@ -1,0 +1,27 @@
+Aim:
+To demonstrate list & related functions in python.
+
+Algorithm:
+Step 1: Start the program.
+
+Step 2: Initialize two lists a = [10, 20, 30, 40] and b = [50, 60, 70, 80].
+
+Step 3: Add 90 to list a using append() and display the list.
+
+Step 4: Add elements of list b to list a using extend() and display the list.
+
+Step 5: Copy list b into list a using copy() and display the list.
+
+Step 6: Sort list b in ascending order and list a in descending order using sort(), then display them.
+
+Step 7: Insert 100 at index 2 in list a using insert() and display the list.
+
+Step 8: Remove 100 from list a using remove() and display the list.
+
+Step 9: Find and display the index of 60 in list a using index().
+
+Step 10: Extract elements from list a using slicing a[0:-1:2] and display the result.
+
+Step 11: Clear all elements from list b using clear() and display the list.
+
+Step 12: Stop the program.
