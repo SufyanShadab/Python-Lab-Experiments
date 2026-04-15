@@ -1,0 +1,13 @@
+Aim:
+To write a program using Pandas to create and display a DataFrame and use Matplotlib to plot the data.
+
+Algorithm:
+Step 1 - Start
+Step 2 - Import pandas as pd and matplotlib.pyplot as plt.
+Step 3 - Create two lists: Points and Teams.
+Step 4 - Create a DataFrame using pd.DataFrame() with columns Points and Teams.
+Step 5 - Print the DataFrame.
+Step 6 - Plot Name on the x-axis and SL on the y-axis using plt.plot().
+Step 7 - Add title and axis labels.
+Step 8 - Display the plot using plt.show().
+Step 9 - Stop
