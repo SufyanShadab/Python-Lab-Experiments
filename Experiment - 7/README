@@ -1,0 +1,13 @@
+Aim:
+To write a program to demonstrate objects, classes, inheritance, and polymorphism in Python.
+
+Algorithm:
+Step 1- Start
+Step 2 - Define a base class X with a method alpha() that prints a value.
+Step 3 - Demonstrate single-level inheritance by creating class Y(X) with method beta(), create an object, and call both methods.
+Step 4 - Demonstrate multiple inheritance by creating classes M and Z(M, X) with method delta(), create an object, and call inherited and own methods.
+Step 5 - Demonstrate hybrid inheritance by creating classes P(X) and Q(Y, P) with method zeta(), create an object, and call methods from all related classes.
+Step 6 - Demonstrate multi-level inheritance by creating classes R(X) and S(R) with method theta(), create an object, and call inherited and own methods.
+Step 7 - Demonstrate hierarchical inheritance by creating classes T(X) and U(X) and calling their respective methods.
+Step 8 - Demonstrate polymorphism (method overriding) by creating class V with method operate() and class W(V) overriding operate(), then call it and print the results.
+Step 9 - Stop
