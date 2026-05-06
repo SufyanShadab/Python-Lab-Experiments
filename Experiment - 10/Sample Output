@@ -1,0 +1,29 @@
+first rows:
+       name   age   salary
+0  Charles  24.0  43500.0
+1  Leclerc  40.0  57680.0
+3      Max  35.0  57533.0
+
+Info:
+
+<class 'pandas.core.frame.DataFrame'>
+Index: 3 entries, 0 to 3
+Data columns (total 3 columns):
+ #   Column  Non-Null Count  Dtype  
+---  ------  --------------  -----  
+ 0   name    3 non-null      object 
+ 1   age     3 non-null      float64
+ 2   salary  3 non-null      float64
+dtypes: float64(2), object(1)
+memory usage: 96.0+ bytes
+
+Summary:
+              age        salary
+count   3.000000      3.000000
+mean   33.000000  52904.333333
+std     8.185353   8144.723220
+min    24.000000  43500.000000
+25%    29.500000  50516.500000
+50%    35.000000  57533.000000
+75%    37.500000  57606.500000
+max    40.000000  57680.000000
