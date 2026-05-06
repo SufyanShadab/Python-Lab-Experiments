@@ -1,0 +1,15 @@
+Aim:
+To write a program using Pandas to create a DataFrame, clean the data (remove duplicates, remove null values), standardize column names, and display basic DataFrame details.
+
+Algorithm:
+Step 1- Start
+Step 2- Import pandas as pd.
+Step 3- Create a dictionary data with columns such as Name, Age, and salary including some missing values.
+Step 4- Create a DataFrame using pd.DataFrame(data).
+Step 5- Remove duplicate rows using drop_duplicates().
+Step 6- Remove rows with missing values using dropna().
+Step 7- Convert all column names to lowercase using df.columns.str.lower().
+Step 8- Display the first few rows using head().
+Step 9- Display DataFrame information using info().
+Step 10- Display statistical summary using describe().
+Step 11- Stop 
